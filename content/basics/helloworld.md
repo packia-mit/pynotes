@@ -1,5 +1,5 @@
 ---
-title: Addition
+title: Helloworld
 date: 2026-03-08
 author: Your Name
 cell_count: 2
@@ -7,13 +7,11 @@ score: 0
 ---
 
 ```python
-x=2
-y=3
-z=x+y
-print(z)
+print("hello world")
+
 ```
 
-    5
+    hello world
     
 
 
